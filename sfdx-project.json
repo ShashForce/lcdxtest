@@ -2,6 +2,9 @@
   "packageDirectories": [
     {
       "path": "force-app",
+      "id": "0HoB0000000Caa5KAC",
+      "versionName": "lcdxv1",
+      "versionNumber": "1.1.0.NEXT",
       "default": true
     }
   ],
